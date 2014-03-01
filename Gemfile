@@ -16,6 +16,8 @@ gem 'pg'
 gem 'rolify'
 gem 'simple_form'
 gem "heroku"
+gem 'rails_12factor'
+gem 'rb-readline'
 gem 'therubyracer', :platform=>:ruby
 group :development do
   gem 'better_errors'
